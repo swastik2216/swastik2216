@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swastik2216
 - 👀 I’m interested in writing and reading
-- 🌱 I’m currently learning Github
+- 🌱 I’m currently learning C Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
