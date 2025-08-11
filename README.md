@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @swastik2216
-- 👀 I’m interested in writing and reading
+- 👀 I’m interested in writing and reading novels
+  
 - 🌱 I’m currently learning C Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: he/him
+
 - ⚡ Fun fact: Earth revolves around the sun.
 
 <!---
